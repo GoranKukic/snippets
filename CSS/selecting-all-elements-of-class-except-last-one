@@ -1,0 +1,11 @@
+	.ce_generalWrapperStart:not(:last-child) .hubspot-cta{
+		margin-bottom: 25px;
+	}
+  
+  
+ /*
+ .ce_generalWrapperStart - class of parent element
+ :not - is for negation/not selecting
+ (:last-child) - is for last child of parent
+ .bubspot-cta - is for class name of all children elements
+ */
